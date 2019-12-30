@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "name": "Serge",
+      "surname": "Pshonnov",
+      "status": "+7 (435) 345-34-53",
+      "emails": [
+        "Pshonnov@gmail.co"
+      ],
+      "phone": "Junior"
+    },
+    {
+      "id": 4,
+      "name": "misha",
+      "surname": "dyakov",
+      "status": "+7 (432) 423-42-32",
+      "emails": [
+        "misha@mail.ru",
+        "kkk@mail.ru"
+      ],
+      "phone": "Middle"
+    }
+  ]
+}
